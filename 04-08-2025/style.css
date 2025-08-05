@@ -1,0 +1,66 @@
+.page1 {
+    background-color: greenyellow;
+    border-radius:10px;
+    border: 2px solid red;
+    margin:10px 15px 10px 15px;
+    padding:20px;
+}.page1 h1{
+    text-align: center;
+color : rgb(3, 70, 97);
+}
+.page1 p{
+    color: black;
+    text-align: center;
+    font-family: " courier new", monospace;
+}
+.page2{
+    width: 450px;
+    margin: auto;
+    border : 2px solid black;
+}
+.page2 p{
+    color:black;
+    text-align: center;
+    font-family: 'Courier New', monospace;
+
+}
+
+header {
+    background-color: brown;
+    padding: 5px;
+    text-align: center;
+}
+header h1{
+    color: azure;
+    border: 7px solid azure;
+    padding: 7px 12px;
+    display: inline-block;
+    border-radius: 20px;
+}
+nav ul{
+    list-style-type: none;
+    background-color: cyan;
+    padding: 0px;
+    margin: 0px;
+    overflow: hidden;
+}
+nav li{
+    float: left;
+}
+nav a{
+    display: inline-block;
+    color : blue;
+    text-align: center;
+    padding: 15px 30px;
+    margin: 10px 15px 10px 15px;
+    text-decoration: none;
+
+}
+nav a:hover{
+   color: black;
+}
+footer{
+   padding: 5px;
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
